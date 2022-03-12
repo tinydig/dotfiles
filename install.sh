@@ -11,6 +11,7 @@ apt install tmux
 apt install git
 apt install fzf
 apt install ack
+apt install docker.io
 
 # Install latest version of neovim
 add-apt-repository ppa:neovim-ppa/unstable
